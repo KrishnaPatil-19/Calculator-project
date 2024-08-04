@@ -23,7 +23,7 @@ The calculator is a simple web application that performs basic arithmetic calcul
 
 ## HTML Code
 
-The HTML code defines the structure and layout of the calculator. It includes the necessary elements such as the display input field and keypad buttons. You can find the HTML code [here](calc.html).
+The HTML code defines the structure and layout of the calculator. It includes the necessary elements such as the display input field and keypad buttons. You can find the HTML code [here](index.html).
 
 ## CSS Code
 
